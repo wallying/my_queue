@@ -31,6 +31,7 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="README.md" />
 		<Unit filename="lib_queue.c">
 			<Option compilerVar="CC" />
 		</Unit>
