@@ -172,6 +172,8 @@ int main(int argc, char *argv[])
         exit(-1);
     }
 
+    printf("hello lib_queue!\n");
+
 
     printf("\n\tKEY[1] : get_data() \n");
     printf("\tKEY[2] : queue_write() \n");
